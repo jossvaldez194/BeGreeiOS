@@ -1,5 +1,7 @@
 {
   "name": "Begreen",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

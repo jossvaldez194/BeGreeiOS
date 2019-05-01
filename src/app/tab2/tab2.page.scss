@@ -1,1 +1,38 @@
 
+.TitleClass{
+    display: block;
+    z-index: 1;
+    text-align: center;
+    font-weight: bold;
+    color: #FFFFFF;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .list{
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+    margin-left: none;
+    margin-right: none;
+    width: 105%
+  }
+  
+  .item{ //Item
+    height: 130px;
+    width: 105%;
+    padding: 0%;
+  }
+  
+  .backgroungImage{ //Imagen
+    height: 130px;
+    width: 105%;
+    padding: 0%;
+  }
+  
+  
+  
